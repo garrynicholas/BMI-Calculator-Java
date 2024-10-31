@@ -16,12 +16,12 @@ A simple BMI (Body Mass Index) calculator implemented in Java for my Midterm Exa
 4. Find your downloaded file
 5. Run the program
 
-Inspiration
+## Inspiration
 This project was inspired by the following resources:
 
 * JavaTpoint - BMI Calculator in Java
 * Baeldung - Java Body Mass Index Calculator
 * Quick Programming Tips - How to Write a BMI Calculator in Java
 
-License
+## License
 This project is FREE, means you can used it without any credits
