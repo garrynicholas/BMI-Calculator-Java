@@ -23,5 +23,9 @@ This project was inspired by the following resources:
 * Baeldung - Java Body Mass Index Calculator
 * Quick Programming Tips - How to Write a BMI Calculator in Java
 
+## Update 1.1.0
+
+* Include Category: Underweight, Normal, Overweight, Obesitas
+
 ## License
 This project is FREE, means you can used it without any credits
